@@ -3,7 +3,9 @@
 
 #include "_testcloth.dm"
 #include "code/uniforms.dm"
+#include "code/head.dm"
 #include "code/list/uniforms.dm"
+#include "code/list/head.dm"
 
 
 #endif
