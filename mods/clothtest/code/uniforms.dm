@@ -8,6 +8,8 @@
     icon_state = "underglove"
     item_state = "underglove"
     armor = list(melee = 10, bullet = 0, laser = 0, energy = 0, bomb = 0, bio = 0, rad = 0)  // Характеристики брони
+    sprite_sheets = list(
+        SPECIES_UNATHI = 'mods/clothtest/icons/xenowear/onmob_under_unathi.dmi'
 
 /obj/item/clothing/under/HephTech
     name = "Hephaestus Technician"
