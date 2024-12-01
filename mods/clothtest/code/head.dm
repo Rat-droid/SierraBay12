@@ -1,6 +1,6 @@
 /// Heph
 
-/obj/item/clothing/head/beret/heaph
+/obj/item/clothing/head/beret/heph
     name = "Hephaestus beret"
     desc = "A hephaestus beret. This one pretty green."
     icon = 'mods/clothtest/icons/obj_head.dmi'
