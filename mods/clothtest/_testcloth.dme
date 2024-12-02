@@ -4,22 +4,12 @@
 #include "_testcloth.dm"
 #include "code/uniforms.dm"
 #include "code/head.dm"
+#include "code/accesory.dm"
+#include "code/suit.dm"
 #include "code/list/uniforms.dm"
 #include "code/list/head.dm"
+#include "code/list/accesory.dm"
+#include "code/list/suit.dm"
 
 
 #endif
-// BEGIN_INTERNALS
-// END_INTERNALS
-// BEGIN_FILE_DIR
-#define FILE_DIR .
-// END_FILE_DIR
-// BEGIN_PREFERENCES
-// END_PREFERENCES
-// BEGIN_INCLUDE
-#include "_testcloth.dm"
-#include "code\head.dm"
-#include "code\uniforms.dm"
-#include "code\list\head.dm"
-#include "code\list\uniforms.dm"
-// END_INCLUDE
