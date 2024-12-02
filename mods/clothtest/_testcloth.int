@@ -2,11 +2,11 @@
 /*
 MAP_PLANE_MASTERS: 
 MAP_ZOOM: 1.000
-DIR: icons icons\xenowear 
+DIR: code icons icons\import icons\xenowear 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
-WINDOW: icons\onmob_under.dmi
-FILE: icons\onmob_under.dmi
+WINDOW: icons\obj_under.dmi;icons\obj_accesory.dmi
+FILE: icons\obj_under.dmi
 MAP_INSTANCE_MODE: copy
 */
 // END_INTERNALS
