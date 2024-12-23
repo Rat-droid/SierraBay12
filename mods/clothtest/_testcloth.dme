@@ -1,9 +1,0 @@
-#ifndef MODPACK_CLOTHTEST
-#define MODPACK_CLOTHTEST
-
-#include "_testcloth.dm"
-#include "code/uniforms.dm"
-#include "code/list/uniforms.dm"
-
-
-#endif
